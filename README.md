@@ -41,7 +41,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://lh4.googleusercontent.com/IyyJEuo8yjwBbWsbwkS-Q89vuIuZUutAo6aYxPwK3NMtRprQUzfM9mRHmqKYZ5tdX8M=w2400" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/8zRPPCf/ezgif-1-ff00a2de85.gif" align="center" style="width: 100%" />
 </div>  
 
 
