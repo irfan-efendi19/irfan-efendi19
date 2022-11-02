@@ -1,6 +1,7 @@
 # Hai 👋, I'm Mochammad Irfan Efendi!
 
 ### Graphic Designer, 3D Modeller base on Blender 3D, UI UX Designer, and Front End Developer
+#### NOW learning Android Development
 
 <a href="https://github.com/https://github.com/irfan-efendi19" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -18,7 +19,7 @@
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 
-## Skill Yang Saya Kuasi
+## Skill
   
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -56,7 +57,7 @@
 <br/>  
 
 
-## Github Status  
+## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=irfan-efendi19&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
