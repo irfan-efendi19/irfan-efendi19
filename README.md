@@ -12,10 +12,10 @@
 <a href="https://instagram.com/irfan.desain" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://dribbble.com/dribbble.com/irfanefendi" target="_blank">
+<a href="https://dribbble.com/dribbble.com/irfan_desain" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/https://www.behance.net/irfan_efendi" target="_blank">
+<a href="https://www.behance.net/https://www.behance.net/irfan_desain" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 
