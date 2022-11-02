@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning Android Development and Kotlin  
   
 
-- ❓ Ask me about UI/UX and Front End Developer
+- ❓ Ask me about Blender 3D, UI/UX and Front End Developer
   
   
 - ❤️ Happy to see other people happy
