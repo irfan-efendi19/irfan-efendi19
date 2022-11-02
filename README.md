@@ -37,7 +37,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://cdn.dribbble.com/users/3862964/screenshots/19040090/media/6ffae11de563be20855e4b2375c6c114.gif" align="center" style="width: 100%" />
 </div>  
 
 
