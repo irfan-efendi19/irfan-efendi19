@@ -1,7 +1,13 @@
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
+
 # Hai 👋, I'm Mochammad Irfan Efendi!
 
 ### Graphic Designer, 3D Modeller base on Blender 3D, UI UX Designer, and Front End Developer
 #### 🔥 NOW learning Android Development
+
+
 
 <a href="https://github.com/irfan-efendi19" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
