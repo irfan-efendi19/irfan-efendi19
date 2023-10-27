@@ -137,16 +137,15 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   
+----
 
 <br/>  
-
 <p align="center">
 &copy;2023 - Mochammad Irfan Efendi
 </p>
 
 <br />
 
-----
 
 
 <!---
