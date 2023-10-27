@@ -19,7 +19,7 @@
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 
-## Progess  
+## Progress  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Master Control](https://www.instagram.com/tv9nusantara/)  
