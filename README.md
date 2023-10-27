@@ -140,6 +140,9 @@
 
 <br/>  
 
+<p align="center">
+&copy;2023 - Mochammad Irfan Efendi
+</p>
 
 <br />
 
