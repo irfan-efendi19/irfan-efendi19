@@ -115,11 +115,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=irfan-efendi19&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfan-efendi19&show_icons=true&theme=maroongold)
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-efendi19&hide_border=true&layout=compact" align="left" style="width: 100%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=maroongold)
 
 </td></tr></table>  
 
