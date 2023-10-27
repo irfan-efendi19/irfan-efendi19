@@ -131,11 +131,11 @@
 
 <br/>  
 
-  
+![Profile views counter](https://komarev.com/ghpvc/?username=irfan-efendi19&&style=flat-square) 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=irfan-efendi19&&style=flat-square)  
+<div=align="center"> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)  </div>
   
 
 <br/>  
@@ -144,7 +144,6 @@
 <br />
 
 ----
-<div align="center">2023 - Mochammad Irfan Efendi</a></div>
 
 
 <!---
