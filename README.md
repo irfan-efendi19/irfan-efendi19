@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Ajarin+dong+puh+sepuh&center=true&width=360&height=30">
 </p>
 
 # Hai 👋, I'm Mochammad Irfan Efendi!
