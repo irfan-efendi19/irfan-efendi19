@@ -125,7 +125,7 @@
 
 </td><td valign="top" width="50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=maroongold)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-efendi19&hide_progress=true&theme=maroongold)
 
 </td></tr></table>  
 
