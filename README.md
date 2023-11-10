@@ -5,7 +5,6 @@
 # Hai 👋, I'm Mochammad Irfan Efendi!
 
 ### Graphic Designer, 3D Modeller base on Blender 3D, UI UX Designer, and Front End Developer
-#### 🔥 NOW learning Android Development
 
 
 
