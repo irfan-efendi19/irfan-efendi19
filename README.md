@@ -27,7 +27,7 @@
 ## Progress  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Master Control](https://www.instagram.com/tv9nusantara/)  
+- 🔭 I’m currently working on [Master Control Room](https://www.instagram.com/tv9nusantara/)  
   
 
 - 🌱 I’m currently learning Android Development and Kotlin  
