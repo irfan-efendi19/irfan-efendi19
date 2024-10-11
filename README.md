@@ -116,13 +116,9 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfan-efendi19&show_icons=true&theme=maroongold)
-
-</td><td valign="top" width="50%">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-efendi19&hide_progress=true&theme=maroongold)
-
-</td></tr></table>  
+  <a href="https://github.com/irfan-efendi19">
+    <img  alt="Irfan Efendi GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/irfan-efendi19?cardType=github&theme=github-dark&preferLogin=true"/>
+  </a>
 
 <br/>  
 
