@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Update Snake Daily
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 12 * * *"  # Update setiap hari jam 12:30 UTC
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: "irfan-efendi19"  # Ganti dengan username GitHub Anda
         id: snake-gif
       
       - uses: crazy-max/ghaction-github-pages@v3
