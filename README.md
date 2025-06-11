@@ -6,10 +6,11 @@
 
 ### Graphic Designer, 3D Modeller base on Blender 3D, UI UX Designer, and Front End Developer
 
-
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irfan-efendi19/irfan-efendi19/output/dist/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irfan-efendi19/irfan-efendi19/output/dist/snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/irfan-efendi19/irfan-efendi19/output/dist/snake.svg">
+</picture>
 
 <a href="https://github.com/irfan-efendi19" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
