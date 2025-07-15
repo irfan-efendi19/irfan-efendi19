@@ -127,5 +127,5 @@
 <br/>
 
 <p align="center">
-&copy;2024 - Mochammad Irfan Efendi
+&copy;2025 - Mochammad Irfan Efendi
 </p>
