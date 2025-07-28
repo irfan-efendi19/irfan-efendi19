@@ -34,7 +34,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.ibb.co/8zRPPCf/ezgif-1-ff00a2de85.gif" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
 
 </td></tr></table>  
